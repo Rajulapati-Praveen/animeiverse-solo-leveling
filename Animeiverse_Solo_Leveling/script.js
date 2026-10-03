@@ -1,0 +1,3 @@
+function toggleNav(){const n=document.getElementById("nav");n.style.display=n.style.display==="flex"?"none":"flex"}
+function subscribe(e){e.preventDefault();alert("Subscribed! Connect this form to Mailchimp, Brevo, or your backend before launch.");e.target.reset();}
+document.querySelectorAll("nav a").forEach(a=>a.addEventListener("click",()=>{if(innerWidth<=850)document.getElementById("nav").style.display="none"}));

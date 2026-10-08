@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://rajulapati-praveen.github.io/animeiverse-solo-leveling/sitemap.xml
+Sitemap: https://rajulapati-praveen.github.io/animeiverse-solo-leveling/sitemap.txt

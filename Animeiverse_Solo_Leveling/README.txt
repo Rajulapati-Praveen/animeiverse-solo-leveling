@@ -1,5 +1,7 @@
 ANIMEIVERSE — SOLO LEVELING
 ============================
+Live site: https://sites.google.com/view/animeiversesololeveling/home
+
 Open index.html to run.
 
 This version includes:
